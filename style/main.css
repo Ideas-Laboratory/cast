@@ -3,6 +3,16 @@
     src: url('./fonts/fontawesome-webfont.woff');
 }
 
+@font-face {
+    font-family: 'freightsans';
+    src: url('./fonts/freightsans.woff');
+}
+
+@font-face {
+    font-family: 'freightsanslight';
+    src: url('./fonts/freightsanslight.woff');
+}
+
 ::-webkit-scrollbar {
     width: 8px;
     margin-right: 2px
@@ -52,15 +62,16 @@ header {
 p {
     /* color: #7c7c7c; */
     color: #333;
-    font: 400 16px/1.5 "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    line-height: 24px;
+    font: 400 16px/1.5 'freightsanslight', "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 28px;
     font-size: 20px;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5 {
     /* color: #3a3843; */
     color: #000;
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'freightsanslight', 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    letter-spacing: 3px;
     font-weight: 200;
     margin: 30px 0;
 }
@@ -77,6 +88,14 @@ h3 {
     font-size: 40px;
 }
 
+h4 {
+    font-size: 28px;
+}
+
+h5 {
+    font-size: 24px;
+}
+
 .logo {
     width: 60px;
     height: 60px;
@@ -91,7 +110,7 @@ h3 {
 
 .menu {
     list-style: none;
-    width: 600px;
+    width: 650px;
     float: right;
 }
 
@@ -100,7 +119,7 @@ h3 {
     box-sizing: border-box;
     height: 64px;
     vertical-align: middle;
-    line-height: 44px;
+    line-height: 64px;
     padding: 0 30px;
 }
 
@@ -115,7 +134,8 @@ h3 {
 
 .menu li a {
     display: block;
-    font-family: 'Oswald';
+    font-family: 'freightsans';
+    letter-spacing: 3px;
     font-weight: 400;
     font-style: normal;
     text-transform: uppercase;
