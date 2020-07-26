@@ -36,7 +36,7 @@ html, body {
 }
 
 header {
-    height: 80px;
+    height: 100px;
     display: flex;
     box-sizing: border-box;
     padding: 0 16%;
@@ -46,6 +46,7 @@ header {
     left: 0px;
     z-index: 999;
     background: #fdfdfd;
+    border-bottom: 1px solid #999;
 }
 
 p {
@@ -77,14 +78,14 @@ h3 {
 }
 
 .logo {
-    width: 40px;
-    height: 40px;
-    margin-top: 40px;
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
 }
 
 .menu-container {
     flex: 1;
-    height: 60px;
+    height: 80px;
     margin-top: 20px;
 }
 
@@ -97,7 +98,7 @@ h3 {
 .menu li {
     display: inline-block;
     box-sizing: border-box;
-    height: 44px;
+    height: 64px;
     vertical-align: middle;
     line-height: 44px;
     padding: 0 30px;
@@ -125,7 +126,7 @@ h3 {
 }
 
 .active-item {
-    border-bottom: 2px solid #000;
+    border-bottom: 4px solid #000;
     transition: all 0.2s cubic-bezier(0.445, 0.05, 0.55, 0.95);
 }
 
