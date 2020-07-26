@@ -1,3 +1,167 @@
 <html>
-    test
+
+<head>
+    <title>Canis</title>
+    <meta charset="utf-8">
+    <link rel='icon' href='logo.ico' type='image/x-icon' />
+    <link rel="stylesheet" type="text/css" href="style/main.css" />
+    <link rel="stylesheet" type="text/css" href="style/page-style/index.css" />
+    <script type='text/javascript' src='js/lottie.min.js'></script>
+</head>
+
+<body>
+    <div id='backTop' class='back-top' onclick='toTop()'>
+        <i></i>
+    </div>
+    <header>
+        <img class='logo' src='./img/logo.png' />
+        <div class='menu-container'>
+            <ul class='menu'>
+                <li class='active-item'><a href='#'>HOME</a></li>
+                <li><a href='gallery.html'>GALLERY</a></li>
+                <li><a href='tutorial.html'>DOCUMENTATION</a></li>
+                <li><a href='about.html'>ABOUT</a></li>
+            </ul>
+        </div>
+    </header>
+    <div class='container'>
+        <div class='teaser'>
+            <div class='teaser-text-container'>
+                <h2>Canis - A Language for Data-Driven Chart Animations</h2>
+                <p>Canis brings your charts to life. It provides an easy-understanding JSON syntax, and
+                    generates animations of the given visualization charts to support storytelling or
+                    analysis. Canis can describe and create animations in a declarative format. To use Canis, our
+                    compiler compiles the specification into a corresponding relation between time and visual attributes
+                    of the graphical marks in charts. Then it generates Lottie JSON file to enable rendering natively on
+                    iOS, Windows, and Web.</p>
+                <button class='launchBtn'
+                    onclick="window.location.href='https://canisjs.github.io/canis-editor/';">Online Editor</button>
+            </div>
+            <div class='teaser-lottie-container'>
+                <div class='teaser-lottie'>
+                    <div id='lottieRender1' class='block1 block'></div>
+                    <div id='lottieRender2' class='block2 block'></div>
+                    <div id='lottieRender3' class='block3 block'></div>
+                    <div id='lottieRender4' class='block4 block'></div>
+                    <div id='lottieRender7' class='block7 block'></div>
+                    <div id='lottieRender6' class='block6 block'></div>
+                </div>
+            </div>
+        </div>
+        <div class='feature-container'>
+            <div class='feature-illus' id='dr1'></div>
+            <div class='feature-text'>
+                <h2>High-level Specifications</h2>
+                <p>Canis decouples specification from implementation and enables concise, high-level specifications
+                    of expressive chart animations.</p>
+            </div>
+        </div>
+        <div class='feature-container'>
+            <div class='feature-text'>
+                <h2>Meaningful Partitions and Sequencing</h2>
+                <p>Canis treats all data-encoded marks as one unit
+                    and partitions it into a set of elementary mark units in terms of
+                    data attributes. Mapping each unit to one time interval facilitates a
+                    meaningful ordering of animation sequences.</p>
+            </div>
+            <div class='feature-illus' style='width: 430px' id='dr2'></div>
+        </div>
+        <div class='feature-container'>
+            <div class='feature-illus' id='dr3'></div>
+            <div class='feature-text'>
+                <h2>Cross-platform Deployment</h2>
+                <p>Canis is able to target multiple platforms including Android,
+                    iOS, Web, and Windows. The ability to compile Canis specifications
+                    to widely-used animation specifications allows to natively run the animations on different
+                    platforms,
+                    making it easier for developers.</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class='footer-content'>
+            <span><a href=''>Contact us</a></span> |
+            <span>© copyright</span>
+        </div>
+    </footer>
+
+    <script>
+        lottie.loadAnimation({
+            container: document.getElementById('lottieRender1'),
+            renderer: 'svg',
+            loop: true,
+            autoplay: true,
+            path: 'img/exmps/polio.json'
+        });
+        lottie.loadAnimation({
+            container: document.getElementById('lottieRender2'),
+            renderer: 'svg',
+            loop: true,
+            autoplay: true,
+            path: 'img/exmps/gantt.json'
+        });
+        lottie.loadAnimation({
+            container: document.getElementById('lottieRender3'),
+            renderer: 'svg',
+            loop: true,
+            autoplay: true,
+            path: 'img/exmps/gapminder.json'
+        });
+        lottie.loadAnimation({
+            container: document.getElementById('lottieRender4'),
+            renderer: 'svg',
+            loop: true,
+            autoplay: true,
+            path: 'img/exmps/nightingale.json'
+        });
+        lottie.loadAnimation({
+            container: document.getElementById('lottieRender6'),
+            renderer: 'svg',
+            loop: true,
+            autoplay: true,
+            path: 'img/exmps/os.json'
+        });
+        lottie.loadAnimation({
+            container: document.getElementById('lottieRender7'),
+            renderer: 'svg',
+            loop: true,
+            autoplay: true,
+            path: 'img/exmps/purchases.json'
+        });
+        lottie.loadAnimation({
+            container: document.getElementById('dr1'),
+            renderer: 'svg',
+            loop: true,
+            autoplay: true,
+            path: 'img/dr1.json'
+        });
+        lottie.loadAnimation({
+            container: document.getElementById('dr2'),
+            renderer: 'svg',
+            loop: true,
+            autoplay: true,
+            path: 'img/dr2.json'
+        });
+        lottie.loadAnimation({
+            container: document.getElementById('dr3'),
+            renderer: 'svg',
+            loop: true,
+            autoplay: true,
+            path: 'img/dr3.json'
+        });
+        window.onscroll = function () {
+            if (document.body.scrollTop > 680 || document.documentElement.scrollTop > 680) {
+                document.getElementById("backTop").style.bottom = '0px';
+            } else {
+                document.getElementById("backTop").style.bottom = '-34px';
+            }
+        };
+
+        function toTop() {
+            document.body.scrollTop = 0; // For Safari
+            document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+        }
+    </script>
+</body>
+
 </html>
