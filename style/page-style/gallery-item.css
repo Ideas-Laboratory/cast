@@ -1,0 +1,17 @@
+.item-intro-container {
+    width: 100%;
+    display: flex;
+}
+
+.item-intro-container img {
+    flex: 1
+}
+
+.item-intro-container .intro-text-container {
+    flex: 1;
+    margin-left: 30px;
+}
+
+.process-video {
+    width: 100%;
+}
