@@ -40,15 +40,16 @@
                 <div class='list-item-text'>
                     <font>Event Planning</font>
                 </div>
-            </div>
-            <div class='list-item' onclick='window.location.href="https://canisjs.github.io/canis-editor/index.html?exmp=purchases_1"'>
-                <div id='ani3' class='list-item-img purchases'></div>
+            </div>-->
+            <div class='list-item'
+                onclick='window.location.href="https://canisjs.github.io/canis-editor/index.html?exmp=purchases_1"'>
+                <div id='purchasesAni' class='list-item-img purchases'></div>
                 <div class='list-item-text'>
                     <font>Doughnut Purchases</font>
                 </div>
-            </div> -->
+            </div>
             <div class='list-item' onclick='window.location.href="./gallery/mushroom.html"'>
-                <div id='ani4' class='list-item-img mushroom'></div>
+                <div id='mushroomAni' class='list-item-img mushroom'></div>
                 <div class='list-item-text'>
                     <font>Characteristics of Mushrooms</font>
                 </div>
@@ -105,6 +106,26 @@
     </footer>
 
     <script>
+        const exmps = ['purchases', 'mushroom'];
+        const lottieAnis = [];
+        for (let i = 0, len = exmps.length; i < len; i++) {
+            lottieAnis.push(lottie.loadAnimation({
+                container: document.getElementById(`${exmps[i]}Ani`),
+                renderer: 'svg',
+                loop: true,
+                autoplay: false,
+                path: `img/exmps/${exmps[i]}.json`
+            }))
+            $(`#${exmps[i]}Ani`).mouseover(() => {
+                lottieAnis[i].play()
+            })
+            $(`#${exmps[i]}Ani`).mouseout(() => {
+                lottieAnis[i].stop()
+            })
+        }
+
+
+
         // let ani0 = lottie.loadAnimation({
         //     container: document.getElementById('ani0'),
         //     renderer: 'svg',
@@ -165,20 +186,20 @@
         //     ani3.stop()
         // })
 
-        let ani4 = lottie.loadAnimation({
-            container: document.getElementById('ani4'),
-            renderer: 'svg',
-            loop: true,
-            autoplay: false,
-            path: 'img/exmps/mushroom.json'
-        });
+        // let ani4 = lottie.loadAnimation({
+        //     container: document.getElementById('ani4'),
+        //     renderer: 'svg',
+        //     loop: true,
+        //     autoplay: false,
+        //     path: 'img/exmps/mushroom.json'
+        // });
 
-        $('#ani4').mouseover(() => {
-            ani4.play()
-        })
-        $('#ani4').mouseout(() => {
-            ani4.stop()
-        })
+        // $('#ani4').mouseover(() => {
+        //     ani4.play()
+        // })
+        // $('#ani4').mouseout(() => {
+        //     ani4.stop()
+        // })
 
         // let ani5 = lottie.loadAnimation({
         //     container: document.getElementById('ani5'),
