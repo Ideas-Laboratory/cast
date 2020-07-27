@@ -6,6 +6,7 @@
     <link rel='icon' href='../logo.ico' type='image/x-icon' />
     <link rel="stylesheet" type="text/css" href="../style/main.css" />
     <link rel="stylesheet" type="text/css" href="../style/page-style/gallery.css" />
+    <link rel="stylesheet" type="text/css" href="../style/page-style/gallery-item.css" />
     <script type='text/javascript' src='../js/jquery-3.3.1.min.js'></script>
 </head>
 
@@ -14,21 +15,36 @@
         <i></i>
     </div>
     <header>
-        <img class='logo' src='./img/logo.png' />
+        <img class='logo' src='../img/logo.png' />
         <div class='menu-container'>
             <button class='launchBtn' style='float:right; margin-top: 30px;'
                 onclick="window.location.href='https://chartanimation.github.io/cast/system/';">Launch</button>
             <ul class='menu'>
                 <li><a href='../index.html'>HOME</a></li>
-                <li class='active-item'><a href='#'>GALLERY</a></li>
+                <li class='active-item'><a href='../gallery.html'>GALLERY</a></li>
                 <li><a href='../tutorial.html'>DOCUMENTATION</a></li>
                 <li><a href='../about.html'>ABOUT</a></li>
             </ul>
         </div>
     </header>
     <div class='container'>
-        <h2>Mushroom Samples</h2>
-        <div class = ''>
+        <div class='example-container'>
+            <h3>Mushroom Samples</h3>
+            <div class='item-intro-container'>
+                <video src='../img/tutorial.mp4'></video>
+                <div class='intro-text-container'>
+                    <p><b>Chart</b>: This is a chart from the gallery of Charticulator. Each dot represents a single
+                        mushroom sample, colored according to whether it is poisonous. Odors are grouped along the X
+                        axis,
+                        while cap surface chartacteristics are
+                        grouped along the Y axis.</p>
+                    <p><b>Animation</b>: All dots animate by row, within each row, animate by column.</p>
+                </div>
+            </div>
+            <br/>
+            <h4>How to create</h4>
+            <video class='process-video' src='../img/tutorial.mp4'></video>
+        </div>
     </div>
     <footer>
         <div class='footer-content'>
