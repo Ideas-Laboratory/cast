@@ -1,0 +1,108 @@
+<html>
+
+<head>
+    <title>CAST - Canis Studio</title>
+    <meta charset="utf-8">
+    <link rel='icon' href='logo.ico' type='image/x-icon' />
+    <link rel="stylesheet" type="text/css" href="style/main.css" />
+    <link rel="stylesheet" type="text/css" href="style/page-style/index.css" />
+    <!-- <script type='text/javascript' src='js/lottie.min.js'></script> -->
+</head>
+
+<body>
+    <div id='backTop' class='back-top' onclick='toTop()'>
+        <i></i>
+    </div>
+    <header>
+        <img class='logo' src='./img/logo.png' />
+        <div class='menu-container'>
+            <button class='launchBtn' style='float:right; margin-top: 30px;'
+                onclick="window.location.href='https://chartanimation.github.io/cast/system/';">Launch</button>
+            <ul class='menu'>
+                <li class='active-item'><a href='#'>HOME</a></li>
+                <li><a href='gallery.html'>GALLERY</a></li>
+                <li><a href='tutorial.html'>DOCUMENTATION</a></li>
+                <li><a href='about.html'>ABOUT</a></li>
+            </ul>
+
+        </div>
+    </header>
+    <div class='container'>
+        <div class='teaser'>
+            <div class='teaser-text-container'>
+                <h2>CAST - Canis Studio xxx</h2>
+                <p>Canis brings your charts to life. It provides an easy-understanding JSON syntax, and
+                    generates animations of the given visualization charts to support storytelling or
+                    analysis. Canis can describe and create animations in a declarative format. To use Canis, our
+                    compiler compiles the specification into a corresponding relation between time and visual attributes
+                    of the graphical marks in charts. Then it generates Lottie JSON file to enable rendering natively on
+                    iOS, Windows, and Web.</p>
+                <button class='launchBtn'
+                    onclick="window.location.href='https://chartanimation.github.io/cast/system/';">CREATE YOUR
+                    ANIMATION</button>
+            </div>
+        </div>
+        <div class='feature-container' style='margin-top: 30px;'>
+            <div class='sub-feature-container'>
+                <div class='sub-feature-item-container'>
+                    <div class='split'></div>
+                    <img src='img/logo.png' />
+                    <h5>feature 1</h5>
+                    <p>Canis decouples specification from implementation and enables concise, high-level specifications
+                        of expressive chart animations.</p>
+                </div>
+                <div class='sub-feature-item-container'>
+                    <div class='split'></div>
+                    <img src='img/logo.png' />
+                    <h5>feature 2</h5>
+                    <p>Canis decouples specification from implementation and enables concise, high-level specifications
+                        of expressive chart animations.</p>
+                </div>
+                <div class='sub-feature-item-container'>
+                    <div class='split'></div>
+                    <img src='img/logo.png' />
+                    <h5>feature 3</h5>
+                    <p>Canis decouples specification from implementation and enables concise, high-level specifications
+                        of expressive chart animations.</p>
+                </div>
+            </div>
+        </div>
+        <div class='feature-container'>
+            <div class='split'></div><br>
+            <h4>FEATURE FEATURE 1</h4>
+            <div class='feature-inner-container'>
+                <div class='feature-text'>
+                    <p>Canis decouples specification from implementation and enables concise, high-level specifications
+                        of expressive chart animations.</p>
+                </div>
+                <div class='feature-illus'>
+                    <img src='img/UIComponent.png'>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    <footer>
+        <div class='footer-content'>
+            <span><a href=''>Contact us</a></span> |
+            <span>© copyright</span>
+        </div>
+    </footer>
+
+    <script>
+        window.onscroll = function () {
+            if (document.body.scrollTop > 680 || document.documentElement.scrollTop > 680) {
+                document.getElementById("backTop").style.bottom = '0px';
+            } else {
+                document.getElementById("backTop").style.bottom = '-34px';
+            }
+        };
+
+        function toTop() {
+            document.body.scrollTop = 0; // For Safari
+            document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+        }
+    </script>
+</body>
+
+</html>
