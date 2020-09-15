@@ -3,7 +3,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
     <g id="chartContent" transform="translate(450.000000,300.000000)">
         <g transform="translate(0,0)" opacity="1">
-            <path d="M -450,300 L -449.99605903,-299.99707097 L 449.99954162,-299.99998776 L 450.00374954,299.9995975 Z" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1"></path>
+            <path d="M -450,300 L -449.99605903,-299.99707097 L 449.99954162,-299.99998776 L 450.00374954,299.9995975 Z" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#000" fill-opacity="1" text-anchor="start" opacity="1"></path>
             <g transform="translate(0,0)" opacity="1"></g>
             <g transform="translate(0,0)" opacity="1">
                 <g transform="translate(0,0)" opacity="1">
@@ -186,7 +186,7 @@
                                                     </g>
                                                     <g transform="translate(0,0)" opacity="1">
                                                         <g transform="translate(0,-70.49999999)" opacity="1">
-                                                            <text id="mark2" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#333" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1950</text>
+                                                            <text id="mark2" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1950</text>
                                                         </g>
                                                     </g>
                                                 </g>
@@ -372,7 +372,7 @@
                                                     </g>
                                                     <g transform="translate(0,0)" opacity="1">
                                                         <g transform="translate(0,-70.49999999)" opacity="1">
-                                                            <text id="mark3" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#333" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1951</text>
+                                                            <text id="mark3" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1951</text>
                                                         </g>
                                                     </g>
                                                 </g>
@@ -557,7 +557,7 @@
                                                     </g>
                                                     <g transform="translate(0,0)" opacity="1">
                                                         <g transform="translate(0,-70.49999999)" opacity="1">
-                                                            <text id="mark4" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#333" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1952</text>
+                                                            <text id="mark4" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1952</text>
                                                         </g>
                                                     </g>
                                                 </g>
@@ -743,7 +743,7 @@
                                                     </g>
                                                     <g transform="translate(0,0)" opacity="1">
                                                         <g transform="translate(0,-70.49999999)" opacity="1">
-                                                            <text id="mark5" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#333" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1953</text>
+                                                            <text id="mark5" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1953</text>
                                                         </g>
                                                     </g>
                                                 </g>
@@ -929,7 +929,7 @@
                                                     </g>
                                                     <g transform="translate(0,0)" opacity="1">
                                                         <g transform="translate(0,-70.49999999)" opacity="1">
-                                                            <text id="mark6" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#333" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1954</text>
+                                                            <text id="mark6" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1954</text>
                                                         </g>
                                                     </g>
                                                 </g>
@@ -1115,7 +1115,7 @@
                                                     </g>
                                                     <g transform="translate(0,0)" opacity="1">
                                                         <g transform="translate(0,-70.49999999)" opacity="1">
-                                                            <text id="mark7" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#333" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1955</text>
+                                                            <text id="mark7" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1955</text>
                                                         </g>
                                                     </g>
                                                 </g>
@@ -1301,7 +1301,7 @@
                                                     </g>
                                                     <g transform="translate(0,0)" opacity="1">
                                                         <g transform="translate(0,-70.49999999)" opacity="1">
-                                                            <text id="mark8" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#333" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1956</text>
+                                                            <text id="mark8" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1956</text>
                                                         </g>
                                                     </g>
                                                 </g>
@@ -1487,7 +1487,7 @@
                                                     </g>
                                                     <g transform="translate(0,0)" opacity="1">
                                                         <g transform="translate(0,-70.49999999)" opacity="1">
-                                                            <text id="mark9" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#333" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1957</text>
+                                                            <text id="mark9" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1957</text>
                                                         </g>
                                                     </g>
                                                 </g>
@@ -1673,7 +1673,7 @@
                                                     </g>
                                                     <g transform="translate(0,0)" opacity="1">
                                                         <g transform="translate(0,-70.49999999)" opacity="1">
-                                                            <text id="mark10" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#333" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1958</text>
+                                                            <text id="mark10" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1958</text>
                                                         </g>
                                                     </g>
                                                 </g>
@@ -1859,7 +1859,7 @@
                                                     </g>
                                                     <g transform="translate(0,0)" opacity="1">
                                                         <g transform="translate(0,-70.49999999)" opacity="1">
-                                                            <text id="mark11" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#333" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1959</text>
+                                                            <text id="mark11" class=" mark Title title" x="-13.34765625" y="15.396272568433318" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1" font-family="Arial" font-size="12px">1959</text>
                                                         </g>
                                                     </g>
                                                 </g>
@@ -1875,8 +1875,8 @@
             </g>
             <g transform="translate(0,0)" opacity="1">
                 <g transform="translate(0,-20)" opacity="1">
-                    <text id="mark2001" class=" mark Title2 title" x="-106.716796875" y="30" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#333" fill-opacity="1" text-anchor="start" opacity="1" font-family="Impact" font-size="24px">Polio Incidence Rates</text>
-                    <text id="mark2002" class=" mark Title2 title" x="-60" y="60" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-linecap="round" stroke-linejoin="round" fill="#333" fill-opacity="1" text-anchor="start" opacity="1" font-family="Impact" font-size="14px">United States, 1950s</text>
+                    <text id="mark2001" class=" mark Title2 title" x="-106.716796875" y="30" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1" font-family="Impact" font-size="24px">Polio Incidence Rates</text>
+                    <text id="mark2002" class=" mark Title2 title" x="-60" y="60" data-datum="{&quot;_TYPE&quot;:&quot;title&quot;,&quot;_MARKID&quot;:&quot;Title&quot;,&quot;_x&quot;:0,&quot;_y&quot;:0}" stroke="none" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-opacity="1" text-anchor="start" opacity="1" font-family="Impact" font-size="14px">United States, 1950s</text>
                 </g>
             </g>
         </g>
