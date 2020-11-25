@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f77b3356e206539733615ccd3d050225",
+    "revision": "b5633202e4654c4c58c7820c58874cf6",
     "url": "./index.html"
   },
   {
-    "revision": "f0dcf143e7802f9e10b5",
-    "url": "./static/css/main.d007d8ca.chunk.css"
+    "revision": "231be8ad249547142c99",
+    "url": "./static/css/main.97c811f3.chunk.css"
   },
   {
-    "revision": "d257ab45a6dbfb94f046",
-    "url": "./static/js/2.5fce7e1d.chunk.js"
+    "revision": "6fa857fc57e6bee47443",
+    "url": "./static/js/2.c7861b47.chunk.js"
   },
   {
-    "revision": "14be5a93e27b04618df3fa38d8bb7f5d",
-    "url": "./static/js/2.5fce7e1d.chunk.js.LICENSE.txt"
+    "revision": "0d10b9de47c8023f7fd9d830b32d5242",
+    "url": "./static/js/2.c7861b47.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0dcf143e7802f9e10b5",
-    "url": "./static/js/main.3616a774.chunk.js"
+    "revision": "231be8ad249547142c99",
+    "url": "./static/js/main.9f3dda36.chunk.js"
   },
   {
     "revision": "5a10f600597a9191ca9e",
@@ -108,28 +108,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/fontawesome-webfont.3293616e.woff"
   },
   {
-    "revision": "11bbeaa8880a06682a3eccb57a9f0703",
-    "url": "./static/media/food_supply.11bbeaa8.mp4"
-  },
-  {
-    "revision": "38b50e49c6da08c34f15793bed15aeca",
-    "url": "./static/media/food_supply.38b50e49.png"
-  },
-  {
     "revision": "3672aabbe0cae07029a1d5a80274dcf6",
     "url": "./static/media/freightsans.3672aabb.woff"
   },
   {
     "revision": "6336cb67c2efa4eacae288993985fe21",
     "url": "./static/media/freightsanslight.6336cb67.woff"
-  },
-  {
-    "revision": "488f041c521bb1f6564e7e92d04bf25f",
-    "url": "./static/media/gapminder.488f041c.mp4"
-  },
-  {
-    "revision": "a8e7f0cc527879543bc95381d347d1f3",
-    "url": "./static/media/gapminder.a8e7f0cc.png"
   },
   {
     "revision": "87dfc291f30dc60fa80630a3cab6e30c",
@@ -274,14 +258,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5450654a67f72e10a04c07925000ba37",
     "url": "./static/media/twoBars_t.5450654a.mp4"
-  },
-  {
-    "revision": "63118e59c720f137fae69e89f7a04f6d",
-    "url": "./static/media/weather_out.63118e59.png"
-  },
-  {
-    "revision": "bbf136c0508e9d343fc060da29b9acf8",
-    "url": "./static/media/weather_out.bbf136c0.mp4"
   },
   {
     "revision": "07ad4300ba960b1d0d645d3db0e6da78",
