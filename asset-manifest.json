@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.d007d8ca.chunk.css",
-    "main.js": "./static/js/main.3616a774.chunk.js",
-    "main.js.map": "./static/js/main.3616a774.chunk.js.map",
+    "main.css": "./static/css/main.97c811f3.chunk.css",
+    "main.js": "./static/js/main.9f3dda36.chunk.js",
+    "main.js.map": "./static/js/main.9f3dda36.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.10595dfd.js",
     "runtime-main.js.map": "./static/js/runtime-main.10595dfd.js.map",
-    "static/js/2.5fce7e1d.chunk.js": "./static/js/2.5fce7e1d.chunk.js",
-    "static/js/2.5fce7e1d.chunk.js.map": "./static/js/2.5fce7e1d.chunk.js.map",
+    "static/js/2.c7861b47.chunk.js": "./static/js/2.c7861b47.chunk.js",
+    "static/js/2.c7861b47.chunk.js.map": "./static/js/2.c7861b47.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.2b226881bede0b85dcecebfce7348c3f.js": "./precache-manifest.2b226881bede0b85dcecebfce7348c3f.js",
+    "precache-manifest.92da8327a79b786332b1b9fc0d394c1b.js": "./precache-manifest.92da8327a79b786332b1b9fc0d394c1b.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.d007d8ca.chunk.css.map": "./static/css/main.d007d8ca.chunk.css.map",
-    "static/js/2.5fce7e1d.chunk.js.LICENSE.txt": "./static/js/2.5fce7e1d.chunk.js.LICENSE.txt",
+    "static/css/main.97c811f3.chunk.css.map": "./static/css/main.97c811f3.chunk.css.map",
+    "static/js/2.c7861b47.chunk.js.LICENSE.txt": "./static/js/2.c7861b47.chunk.js.LICENSE.txt",
     "static/media/UIComponent.png": "./static/media/UIComponent.a6225797.png",
     "static/media/adjust_timing.png": "./static/media/adjust_timing.b6ceaaf7.png",
     "static/media/teaser.scss": "./static/media/banner.52e05f49.svg",
@@ -32,10 +32,6 @@
     "static/media/flare.mp4": "./static/media/flare.ce8fb2b0.mp4",
     "static/media/flare_t.mp4": "./static/media/flare_t.038f4d6c.mp4",
     "static/media/app.scss": "./static/media/freightsanslight.6336cb67.woff",
-    "static/media/food_supply.mp4": "./static/media/food_supply.11bbeaa8.mp4",
-    "static/media/food_supply.png": "./static/media/food_supply.38b50e49.png",
-    "static/media/gapminder.mp4": "./static/media/gapminder.488f041c.mp4",
-    "static/media/gapminder.png": "./static/media/gapminder.a8e7f0cc.png",
     "static/media/icons.png": "./static/media/icons.87dfc291.png",
     "static/media/kfGroup.png": "./static/media/kfGroup.660a6052.png",
     "static/media/kf_align.png": "./static/media/kf_align.a075d98c.png",
@@ -70,14 +66,12 @@
     "static/media/selection.png": "./static/media/selection.63dd7904.png",
     "static/media/suggestion.png": "./static/media/suggestion.52b1b486.png",
     "static/media/twoBars.mp4": "./static/media/twoBars.99e114c5.mp4",
-    "static/media/twoBars_t.mp4": "./static/media/twoBars_t.5450654a.mp4",
-    "static/media/weather_out.png": "./static/media/weather_out.63118e59.png",
-    "static/media/weather_out.mp4": "./static/media/weather_out.bbf136c0.mp4"
+    "static/media/twoBars_t.mp4": "./static/media/twoBars_t.5450654a.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.10595dfd.js",
-    "static/js/2.5fce7e1d.chunk.js",
-    "static/css/main.d007d8ca.chunk.css",
-    "static/js/main.3616a774.chunk.js"
+    "static/js/2.c7861b47.chunk.js",
+    "static/css/main.97c811f3.chunk.css",
+    "static/js/main.9f3dda36.chunk.js"
   ]
 }
