@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c20301b90b441f045013f11e3e29ef2",
+    "revision": "f2a9458c7d2196d468d9b5d0d8a31573",
     "url": "./index.html"
   },
   {
-    "revision": "334711adb32576ae6535",
+    "revision": "863edfb7dbddf12e8066",
     "url": "./static/css/main.6ef2bc51.chunk.css"
   },
   {
-    "revision": "550c3a392dfbc7ae267d",
-    "url": "./static/js/2.6f447d2c.chunk.js"
+    "revision": "f3d9240a670ef0c7f80f",
+    "url": "./static/js/2.75a84690.chunk.js"
   },
   {
     "revision": "14be5a93e27b04618df3fa38d8bb7f5d",
-    "url": "./static/js/2.6f447d2c.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.75a84690.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "334711adb32576ae6535",
-    "url": "./static/js/main.02703ea3.chunk.js"
+    "revision": "863edfb7dbddf12e8066",
+    "url": "./static/js/main.13662298.chunk.js"
   },
   {
     "revision": "5a10f600597a9191ca9e",
@@ -88,18 +88,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/feature3.52ee1055.png"
   },
   {
-    "revision": "55a6ea268ead0646b51f0cd9ea555fc8",
-    "url": "./static/media/flare.55a6ea26.png"
-  },
-  {
-    "revision": "ce8fb2b0ea30cbf163c341ad5cd55b9d",
-    "url": "./static/media/flare.ce8fb2b0.mp4"
-  },
-  {
-    "revision": "038f4d6ceceee92f0f5e4179b633e8a4",
-    "url": "./static/media/flare_t.038f4d6c.mp4"
-  },
-  {
     "revision": "3293616ec0c605c7c2db25829a0a509e",
     "url": "./static/media/fontawesome-webfont.3293616e.woff"
   },
@@ -124,8 +112,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/gapminder.488f041c.mp4"
   },
   {
-    "revision": "a8e7f0cc527879543bc95381d347d1f3",
-    "url": "./static/media/gapminder.a8e7f0cc.png"
+    "revision": "d15741990e4f234d21dc97c50e87e79f",
+    "url": "./static/media/gapminder.d1574199.png"
+  },
+  {
+    "revision": "e2f257b91fe96f4facdbd237a7a4da76",
+    "url": "./static/media/gapminder0.e2f257b9.png"
   },
   {
     "revision": "87dfc291f30dc60fa80630a3cab6e30c",
@@ -190,6 +182,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9eed82dff0a85116d819e9269ac396a6",
     "url": "./static/media/nav.9eed82df.png"
+  },
+  {
+    "revision": "b9c2ac904b60e03a31f7d981033d49a3",
+    "url": "./static/media/oecd_population.b9c2ac90.png"
+  },
+  {
+    "revision": "da291755738dbcbe27259649b9e83ecc",
+    "url": "./static/media/oecd_population.da291755.mp4"
+  },
+  {
+    "revision": "d5c21508c52d006fd41417cb16c254c1",
+    "url": "./static/media/oecd_population_t.d5c21508.mp4"
   },
   {
     "revision": "7136207978a063a0077e303ead1fbf39",
