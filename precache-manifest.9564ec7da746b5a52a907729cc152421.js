@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2a9458c7d2196d468d9b5d0d8a31573",
+    "revision": "2476593bc018d0807eb975dd36ced9c9",
     "url": "./index.html"
   },
   {
-    "revision": "863edfb7dbddf12e8066",
+    "revision": "0c5fb1721f33c9a937d0",
     "url": "./static/css/main.6ef2bc51.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.75a84690.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "863edfb7dbddf12e8066",
-    "url": "./static/js/main.13662298.chunk.js"
+    "revision": "0c5fb1721f33c9a937d0",
+    "url": "./static/js/main.554eb554.chunk.js"
   },
   {
     "revision": "5a10f600597a9191ca9e",
@@ -92,12 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/fontawesome-webfont.3293616e.woff"
   },
   {
-    "revision": "11bbeaa8880a06682a3eccb57a9f0703",
-    "url": "./static/media/food_supply.11bbeaa8.mp4"
+    "revision": "28f9c040147edc21b7f189e93da191a6",
+    "url": "./static/media/food_supply.28f9c040.mp4"
   },
   {
-    "revision": "38b50e49c6da08c34f15793bed15aeca",
-    "url": "./static/media/food_supply.38b50e49.png"
+    "revision": "94c5025fd03784d41a9dba90488896cb",
+    "url": "./static/media/food_supply.94c5025f.png"
   },
   {
     "revision": "3672aabbe0cae07029a1d5a80274dcf6",
