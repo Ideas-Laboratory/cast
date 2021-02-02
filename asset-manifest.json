@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.6ef2bc51.chunk.css",
-    "main.js": "./static/js/main.554eb554.chunk.js",
-    "main.js.map": "./static/js/main.554eb554.chunk.js.map",
+    "main.css": "./static/css/main.2349c753.chunk.css",
+    "main.js": "./static/js/main.7d691ce8.chunk.js",
+    "main.js.map": "./static/js/main.7d691ce8.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.10595dfd.js",
     "runtime-main.js.map": "./static/js/runtime-main.10595dfd.js.map",
-    "static/js/2.75a84690.chunk.js": "./static/js/2.75a84690.chunk.js",
-    "static/js/2.75a84690.chunk.js.map": "./static/js/2.75a84690.chunk.js.map",
+    "static/js/2.39131e2e.chunk.js": "./static/js/2.39131e2e.chunk.js",
+    "static/js/2.39131e2e.chunk.js.map": "./static/js/2.39131e2e.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.9564ec7da746b5a52a907729cc152421.js": "./precache-manifest.9564ec7da746b5a52a907729cc152421.js",
+    "precache-manifest.bf20fdf90b4639f18485a84351a8df68.js": "./precache-manifest.bf20fdf90b4639f18485a84351a8df68.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.6ef2bc51.chunk.css.map": "./static/css/main.6ef2bc51.chunk.css.map",
-    "static/js/2.75a84690.chunk.js.LICENSE.txt": "./static/js/2.75a84690.chunk.js.LICENSE.txt",
+    "static/css/main.2349c753.chunk.css.map": "./static/css/main.2349c753.chunk.css.map",
+    "static/js/2.39131e2e.chunk.js.LICENSE.txt": "./static/js/2.39131e2e.chunk.js.LICENSE.txt",
+    "static/media/CHI_2021__CAST_compressed.pdf": "./static/media/CHI_2021__CAST_compressed.1a9a51d2.pdf",
     "static/media/UIComponent.png": "./static/media/UIComponent.a6225797.png",
     "static/media/adjust_timing.png": "./static/media/adjust_timing.b6ceaaf7.png",
     "static/media/teaser.scss": "./static/media/banner.52e05f49.svg",
@@ -55,6 +56,7 @@
     "static/media/os.png": "./static/media/os.71362079.png",
     "static/media/os.mp4": "./static/media/os.f7dfa18c.mp4",
     "static/media/os_t.mp4": "./static/media/os_t.850d9fc9.mp4",
+    "static/media/paper.png": "./static/media/paper.2faddb97.png",
     "static/media/pie.mp4": "./static/media/pie.59843bc1.mp4",
     "static/media/pie.png": "./static/media/pie.9cc25b3a.png",
     "static/media/pie_t.mp4": "./static/media/pie_t.8ee1fc4f.mp4",
@@ -72,8 +74,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.10595dfd.js",
-    "static/js/2.75a84690.chunk.js",
-    "static/css/main.6ef2bc51.chunk.css",
-    "static/js/main.554eb554.chunk.js"
+    "static/js/2.39131e2e.chunk.js",
+    "static/css/main.2349c753.chunk.css",
+    "static/js/main.7d691ce8.chunk.js"
   ]
 }
